@@ -9,3 +9,5 @@ In details, the repository contains:
 - Analyse_Synthetic.ipynb is a Jupyter notebook used to reproduce the paper's plots regarding the stability analysis with a synthetic dataset.
 - result contains the pickles having the datasets generated for the stability analysis and the clustering results. Notice that creating a new dataset or running the code multiple times may give slightly different performance due to the k-Means characteristics.
 - fig presents the figures reported in the paper. 
+
+[1] https://github.com/johnpaparrizos/kshape
